@@ -8,9 +8,9 @@
         <version>3.0.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>at.ac.htlstp.demo</groupId>
+    <groupId>at.ac.htlstp.demo.rest</groupId>
     <artifactId>SpringBoot-Rest-Interface</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.1</version>
     <name>SpringBoot-Rest-Interface</name>
     <description>SpringBoot-Rest-Interface</description>
     <properties>

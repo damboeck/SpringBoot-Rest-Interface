@@ -1,5 +1,6 @@
 package at.ac.htlstp.demo.springbootrestinterface;
 
+import at.ac.htlstp.demo.springbootrestinterface.endpoints.RestEndpoints;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
